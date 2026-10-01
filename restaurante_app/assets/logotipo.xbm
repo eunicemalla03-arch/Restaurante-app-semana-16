@@ -1,0 +1,4 @@
+#define logotipo_width 8
+#define logotipo_height 8
+static unsigned char logotipo_bits[] = {
+   0x18, 0x3c, 0x7e, 0xdb, 0xff, 0x7e, 0x3c, 0x18};

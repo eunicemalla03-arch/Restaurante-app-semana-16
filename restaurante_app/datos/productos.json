@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa",
+    "precio": 5.0,
+    "cantidad": 18
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza",
+    "precio": 8.5,
+    "cantidad": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Refresco",
+    "precio": 1.5,
+    "cantidad": 50
+  }
+]

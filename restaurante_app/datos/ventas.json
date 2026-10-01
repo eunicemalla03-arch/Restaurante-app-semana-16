@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "producto_id": 1,
+    "producto_nombre": "Hamburguesa",
+    "cantidad": 1,
+    "total": 5.0
+  },
+  {
+    "id": 2,
+    "producto_id": 1,
+    "producto_nombre": "Hamburguesa",
+    "cantidad": 1,
+    "total": 5.0
+  }
+]
